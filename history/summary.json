@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1769,
-    "timeDay": 1947,
-    "timeWeek": 1769,
-    "timeMonth": 1769,
-    "timeYear": 1769,
+    "time": 1761,
+    "timeDay": 1707,
+    "timeWeek": 1761,
+    "timeMonth": 1761,
+    "timeYear": 1761,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2235,
-    "timeDay": 2207,
-    "timeWeek": 2235,
-    "timeMonth": 2235,
-    "timeYear": 2235,
+    "time": 2216,
+    "timeDay": 2123,
+    "timeWeek": 2216,
+    "timeMonth": 2216,
+    "timeYear": 2216,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/canvas.sheridan.edu.au.ico",
     "slug": "sihe-canvas",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1981,
-    "timeDay": 2173,
-    "timeWeek": 1981,
-    "timeMonth": 1981,
-    "timeYear": 1981,
-    "dailyMinutesDown": {
-      "2023-09-04": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1969,
+    "timeDay": 1885,
+    "timeWeek": 1969,
+    "timeMonth": 1969,
+    "timeYear": 1969,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SIHE UMS",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1414,
-    "timeDay": 1527,
-    "timeWeek": 1414,
-    "timeMonth": 1414,
-    "timeYear": 1414,
+    "time": 1402,
+    "timeDay": 1339,
+    "timeWeek": 1402,
+    "timeMonth": 1402,
+    "timeYear": 1402,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2945,
-    "timeDay": 3346,
-    "timeWeek": 2945,
-    "timeMonth": 2945,
-    "timeYear": 2945,
+    "time": 2873,
+    "timeDay": 2513,
+    "timeWeek": 2873,
+    "timeMonth": 2873,
+    "timeYear": 2873,
     "dailyMinutesDown": {}
   }
 ]
