@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2094,
-    "timeDay": 1865,
+    "timeDay": 2384,
     "timeWeek": 2091,
     "timeMonth": 2094,
     "timeYear": 2094,
@@ -40,18 +40,20 @@
     "url": "https://canvas.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/canvas.sheridan.edu.au.ico",
     "slug": "sihe-canvas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2005,
-    "timeDay": 2393,
-    "timeWeek": 2043,
-    "timeMonth": 2005,
-    "timeYear": 2005,
-    "dailyMinutesDown": {}
+    "time": 1961,
+    "timeDay": 1745,
+    "timeWeek": 1984,
+    "timeMonth": 1961,
+    "timeYear": 1961,
+    "dailyMinutesDown": {
+      "2023-09-09": 0
+    }
   },
   {
     "name": "SIHE UMS",
