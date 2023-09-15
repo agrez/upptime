@@ -4,19 +4,19 @@
     "url": "https://mail.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/mail.sheridan.edu.au.ico",
     "slug": "sihe-mail",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1704,
-    "timeDay": 1576,
-    "timeWeek": 1692,
-    "timeMonth": 1704,
-    "timeYear": 1704,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1706,
+    "timeDay": 1631,
+    "timeWeek": 1721,
+    "timeMonth": 1706,
+    "timeYear": 1706,
     "dailyMinutesDown": {
-      "2023-09-15": 0
+      "2023-09-15": 6
     }
   },
   {
