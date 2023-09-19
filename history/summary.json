@@ -40,18 +40,20 @@
     "url": "https://canvas.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/canvas.sheridan.edu.au.ico",
     "slug": "sihe-canvas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1983,
-    "timeDay": 1733,
-    "timeWeek": 1963,
-    "timeMonth": 1983,
-    "timeYear": 1983,
-    "dailyMinutesDown": {}
+    "time": 1967,
+    "timeDay": 1628,
+    "timeWeek": 1953,
+    "timeMonth": 1967,
+    "timeYear": 1967,
+    "dailyMinutesDown": {
+      "2023-09-19": 0
+    }
   },
   {
     "name": "SIHE UMS",
