@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.sheridan.edu.au.ico",
     "slug": "sihe-mail",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
-    "uptimeYear": "99.55%",
-    "time": 1632,
-    "timeDay": 1557,
-    "timeWeek": 1621,
+    "uptimeYear": "99.56%",
+    "time": 1627,
+    "timeDay": 1330,
+    "timeWeek": 1573,
     "timeMonth": 1598,
-    "timeYear": 1632,
+    "timeYear": 1627,
     "dailyMinutesDown": {
       "2023-10-01": 15,
       "2023-09-29": 295
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2059,
-    "timeDay": 2270,
-    "timeWeek": 1934,
-    "timeMonth": 2006,
-    "timeYear": 2059,
+    "time": 2065,
+    "timeDay": 2370,
+    "timeWeek": 2017,
+    "timeMonth": 2012,
+    "timeYear": 2065,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 1960,
-    "timeDay": 2280,
-    "timeWeek": 1979,
-    "timeMonth": 1932,
-    "timeYear": 1960,
+    "time": 1963,
+    "timeDay": 2270,
+    "timeWeek": 1960,
+    "timeMonth": 1949,
+    "timeYear": 1963,
     "dailyMinutesDown": {
       "2023-09-19": 20
     }
@@ -70,8 +70,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1366,
-    "timeDay": 1293,
-    "timeWeek": 1231,
+    "timeDay": 1364,
+    "timeWeek": 1250,
     "timeMonth": 1329,
     "timeYear": 1366,
     "dailyMinutesDown": {}
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2750,
-    "timeDay": 2870,
-    "timeWeek": 2541,
+    "time": 2748,
+    "timeDay": 2671,
+    "timeWeek": 2590,
     "timeMonth": 2720,
-    "timeYear": 2750,
+    "timeYear": 2748,
     "dailyMinutesDown": {}
   }
 ]
