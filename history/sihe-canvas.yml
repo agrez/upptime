@@ -1,7 +1,7 @@
 url: https://canvas.sheridan.edu.au
-status: up
-code: 200
-responseTime: 2345
-lastUpdated: 2024-03-09T23:17:20.584Z
+status: down
+code: 503
+responseTime: 1246
+lastUpdated: 2024-03-10T18:23:14.113Z
 startTime: 2023-08-31T10:04:08.921Z
 generator: Upptime <https://github.com/upptime/upptime>
