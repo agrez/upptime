@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
-    "time": 1781,
-    "timeDay": 2060,
-    "timeWeek": 1734,
-    "timeMonth": 1742,
-    "timeYear": 1813,
+    "time": 1780,
+    "timeDay": 1354,
+    "timeWeek": 1713,
+    "timeMonth": 1722,
+    "timeYear": 1814,
     "dailyMinutesDown": {
       "2024-10-07": 78,
       "2024-09-12": 108,
@@ -27,8 +27,7 @@
       "2024-02-05": 142,
       "2024-01-12": 15,
       "2024-01-02": 98,
-      "2023-12-08": 104,
-      "2023-11-27": 43
+      "2023-12-08": 104
     }
   },
   {
@@ -42,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 2218,
-    "timeDay": 2175,
-    "timeWeek": 2018,
-    "timeMonth": 2029,
-    "timeYear": 2244,
+    "time": 2217,
+    "timeDay": 1730,
+    "timeWeek": 1950,
+    "timeMonth": 2007,
+    "timeYear": 2243,
     "dailyMinutesDown": {
       "2024-10-07": 78,
       "2024-07-19": 69,
@@ -57,8 +56,7 @@
       "2024-02-06": 47,
       "2024-02-05": 142,
       "2024-01-02": 53,
-      "2023-12-08": 103,
-      "2023-11-27": 42
+      "2023-12-08": 103
     }
   },
   {
@@ -73,10 +71,10 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.55%",
     "time": 2260,
-    "timeDay": 2034,
-    "timeWeek": 2215,
-    "timeMonth": 2270,
-    "timeYear": 2326,
+    "timeDay": 1743,
+    "timeWeek": 2134,
+    "timeMonth": 2256,
+    "timeYear": 2327,
     "dailyMinutesDown": {
       "2024-11-21": 20,
       "2024-11-19": 25,
@@ -116,8 +114,7 @@
       "2024-01-02": 52,
       "2023-12-26": 22,
       "2023-12-19": 21,
-      "2023-12-08": 103,
-      "2023-11-27": 42
+      "2023-12-08": 103
     }
   },
   {
@@ -131,10 +128,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
-    "time": 1508,
-    "timeDay": 1559,
-    "timeWeek": 1366,
-    "timeMonth": 1382,
+    "time": 1507,
+    "timeDay": 1143,
+    "timeWeek": 1308,
+    "timeMonth": 1362,
     "timeYear": 1532,
     "dailyMinutesDown": {
       "2024-10-07": 77,
@@ -148,8 +145,7 @@
       "2024-02-06": 47,
       "2024-02-05": 140,
       "2024-01-02": 52,
-      "2023-12-08": 102,
-      "2023-11-27": 41
+      "2023-12-08": 102
     }
   },
   {
@@ -158,15 +154,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.sheridan.edu.au.ico",
     "slug": "sihe-library",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.52%",
-    "time": 2978,
-    "timeDay": 2786,
-    "timeWeek": 2629,
-    "timeMonth": 2749,
+    "time": 2977,
+    "timeDay": 2580,
+    "timeWeek": 2594,
+    "timeMonth": 2732,
     "timeYear": 3025,
     "dailyMinutesDown": {
       "2024-10-11": 45,
@@ -192,8 +188,7 @@
       "2024-02-06": 47,
       "2024-02-05": 140,
       "2024-01-02": 51,
-      "2023-12-08": 102,
-      "2023-11-27": 29
+      "2023-12-08": 102
     }
   }
 ]
