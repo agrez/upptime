@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.sheridan.edu.au.ico",
     "slug": "sihe-mail",
     "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.62%",
-    "time": 1807,
-    "timeDay": 2151,
-    "timeWeek": 1815,
-    "timeMonth": 1866,
+    "uptime": "99.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.63%",
+    "time": 1805,
+    "timeDay": 2122,
+    "timeWeek": 1820,
+    "timeMonth": 1858,
     "timeYear": 1792,
     "dailyMinutesDown": {
-      "2025-02-21": 14,
       "2025-02-20": 39,
       "2025-02-18": 88,
       "2025-02-14": 18,
@@ -29,8 +28,7 @@
       "2024-09-12": 108,
       "2024-07-19": 160,
       "2024-07-18": 891,
-      "2024-07-11": 58,
-      "2024-02-23": 419
+      "2024-07-11": 58
     }
   },
   {
@@ -45,9 +43,9 @@
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.74%",
     "time": 2220,
-    "timeDay": 2096,
-    "timeWeek": 2201,
-    "timeMonth": 2155,
+    "timeDay": 2122,
+    "timeWeek": 2234,
+    "timeMonth": 2151,
     "timeYear": 2215,
     "dailyMinutesDown": {
       "2025-02-20": 24,
@@ -61,8 +59,7 @@
       "2024-10-07": 78,
       "2024-07-19": 69,
       "2024-07-18": 890,
-      "2024-07-11": 58,
-      "2024-02-23": 61
+      "2024-07-11": 58
     }
   },
   {
@@ -76,10 +73,10 @@
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.56%",
-    "time": 2349,
-    "timeDay": 2186,
-    "timeWeek": 3779,
-    "timeMonth": 2751,
+    "time": 2350,
+    "timeDay": 2234,
+    "timeWeek": 3804,
+    "timeMonth": 2748,
     "timeYear": 2387,
     "dailyMinutesDown": {
       "2025-02-20": 23,
@@ -134,8 +131,7 @@
       "2024-04-19": 16,
       "2024-03-19": 22,
       "2024-03-12": 16,
-      "2024-02-26": 16,
-      "2024-02-23": 60
+      "2024-02-26": 16
     }
   },
   {
@@ -149,11 +145,11 @@
     "uptimeWeek": "98.92%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.46%",
-    "time": 1492,
-    "timeDay": 1444,
-    "timeWeek": 1410,
-    "timeMonth": 1407,
-    "timeYear": 1507,
+    "time": 1491,
+    "timeDay": 1231,
+    "timeWeek": 1432,
+    "timeMonth": 1402,
+    "timeYear": 1506,
     "dailyMinutesDown": {
       "2025-02-20": 23,
       "2025-02-18": 86,
@@ -167,8 +163,7 @@
       "2024-07-18": 889,
       "2024-07-11": 40,
       "2024-07-06": 1173,
-      "2024-07-05": 225,
-      "2024-02-23": 60
+      "2024-07-05": 225
     }
   },
   {
@@ -183,10 +178,10 @@
     "uptimeMonth": "99.58%",
     "uptimeYear": "95.74%",
     "time": 2949,
-    "timeDay": 2817,
-    "timeWeek": 2924,
-    "timeMonth": 2753,
-    "timeYear": 2996,
+    "timeDay": 2723,
+    "timeWeek": 2922,
+    "timeMonth": 2749,
+    "timeYear": 2986,
     "dailyMinutesDown": {
       "2025-02-20": 22,
       "2025-02-18": 86,
@@ -218,8 +213,7 @@
       "2024-07-01": 62,
       "2024-06-27": 19,
       "2024-06-20": 141,
-      "2024-06-19": 308,
-      "2024-02-23": 59
+      "2024-06-19": 308
     }
   }
 ]
