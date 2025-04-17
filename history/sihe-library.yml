@@ -1,7 +1,7 @@
 url: https://library.sheridan.edu.au
-status: up
-code: 200
-responseTime: 3640
-lastUpdated: 2025-04-16T23:22:49.221Z
+status: down
+code: 503
+responseTime: 2481
+lastUpdated: 2025-04-17T07:26:14.016Z
 startTime: 2023-08-31T10:04:13.053Z
 generator: Upptime <https://github.com/upptime/upptime>
