@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.19%",
-    "time": 1840,
-    "timeDay": 1450,
-    "timeWeek": 1795,
-    "timeMonth": 1839,
-    "timeYear": 1835,
+    "time": 1841,
+    "timeDay": 1712,
+    "timeWeek": 1768,
+    "timeMonth": 1830,
+    "timeYear": 1834,
     "dailyMinutesDown": {
       "2025-06-21": 21,
       "2025-06-09": 112,
@@ -51,8 +51,7 @@
       "2024-10-07": 78,
       "2024-09-12": 108,
       "2024-07-19": 160,
-      "2024-07-18": 891,
-      "2024-07-11": 58
+      "2024-07-18": 891
     }
   },
   {
@@ -67,10 +66,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.31%",
     "time": 2204,
-    "timeDay": 1956,
-    "timeWeek": 2066,
-    "timeMonth": 2151,
-    "timeYear": 2189,
+    "timeDay": 1933,
+    "timeWeek": 2060,
+    "timeMonth": 2144,
+    "timeYear": 2188,
     "dailyMinutesDown": {
       "2025-06-21": 20,
       "2025-06-09": 111,
@@ -98,8 +97,7 @@
       "2025-01-03": 19,
       "2024-10-07": 78,
       "2024-07-19": 69,
-      "2024-07-18": 890,
-      "2024-07-11": 58
+      "2024-07-18": 890
     }
   },
   {
@@ -114,9 +112,9 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.07%",
     "time": 2347,
-    "timeDay": 1778,
-    "timeWeek": 2094,
-    "timeMonth": 2541,
+    "timeDay": 2296,
+    "timeWeek": 2076,
+    "timeMonth": 2533,
     "timeYear": 2350,
     "dailyMinutesDown": {
       "2025-07-05": 24,
@@ -198,8 +196,7 @@
       "2024-08-05": 27,
       "2024-07-19": 160,
       "2024-07-18": 903,
-      "2024-07-14": 22,
-      "2024-07-11": 58
+      "2024-07-14": 22
     }
   },
   {
@@ -214,10 +211,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.30%",
     "time": 1524,
-    "timeDay": 982,
-    "timeWeek": 1388,
-    "timeMonth": 1537,
-    "timeYear": 1500,
+    "timeDay": 1528,
+    "timeWeek": 1407,
+    "timeMonth": 1538,
+    "timeYear": 1499,
     "dailyMinutesDown": {
       "2025-06-21": 19,
       "2025-06-09": 110,
@@ -244,8 +241,7 @@
       "2025-01-29": 19,
       "2024-10-07": 77,
       "2024-07-19": 160,
-      "2024-07-18": 889,
-      "2024-07-11": 40
+      "2024-07-18": 889
     }
   },
   {
@@ -254,15 +250,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.sheridan.edu.au.ico",
     "slug": "sihe-library",
     "status": "up",
-    "uptime": "97.42%",
+    "uptime": "97.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "95.55%",
+    "uptimeYear": "95.83%",
     "time": 2949,
-    "timeDay": 2450,
-    "timeWeek": 2793,
-    "timeMonth": 2842,
+    "timeDay": 3181,
+    "timeWeek": 2850,
+    "timeMonth": 2844,
     "timeYear": 2923,
     "dailyMinutesDown": {
       "2025-06-21": 19,
@@ -305,8 +301,7 @@
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
-      "2024-07-12": 1440,
-      "2024-07-11": 1440
+      "2024-07-12": 1440
     }
   }
 ]
