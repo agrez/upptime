@@ -119,16 +119,16 @@
     "url": "https://canvas.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/canvas.sheridan.edu.au.ico",
     "slug": "sihe-canvas",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "99.49%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.48%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "99.19%",
-    "time": 2378,
-    "timeDay": 2197,
-    "timeWeek": 3429,
-    "timeMonth": 2493,
+    "uptimeYear": "99.20%",
+    "time": 2377,
+    "timeDay": 2076,
+    "timeWeek": 3306,
+    "timeMonth": 2480,
     "timeYear": 2363,
     "dailyMinutesDown": {
       "2025-09-28": 31,
@@ -225,8 +225,7 @@
       "2024-10-26": 30,
       "2024-10-13": 17,
       "2024-10-12": 26,
-      "2024-10-10": 20,
-      "2024-10-07": 77
+      "2024-10-10": 20
     }
   },
   {
