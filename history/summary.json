@@ -285,8 +285,8 @@
     "slug": "sihe-library",
     "status": "up",
     "uptime": "97.67%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "98.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.58%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "97.60%",
     "time": 2986,
@@ -295,7 +295,6 @@
     "timeMonth": 3503,
     "timeYear": 2922,
     "dailyMinutesDown": {
-      "2025-09-29": 3,
       "2025-09-28": 30,
       "2025-09-25": 51,
       "2025-09-24": 22,
