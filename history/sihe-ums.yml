@@ -1,7 +1,7 @@
 url: https://student.sheridan.edu.au
-status: down
-code: 503
-responseTime: 1637
-lastUpdated: 2025-10-06T19:30:11.874Z
+status: up
+code: 200
+responseTime: 1436
+lastUpdated: 2025-10-06T19:40:41.730Z
 startTime: 2023-08-31T10:04:11.234Z
 generator: Upptime <https://github.com/upptime/upptime>
