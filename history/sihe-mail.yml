@@ -1,7 +1,7 @@
 url: https://mail.sheridan.edu.au
-status: down
-code: 503
-responseTime: 1299
-lastUpdated: 2025-12-31T18:31:17.102Z
+status: up
+code: 200
+responseTime: 1274
+lastUpdated: 2025-12-31T18:53:25.519Z
 startTime: 2023-08-31T10:04:04.390Z
 generator: Upptime <https://github.com/upptime/upptime>
