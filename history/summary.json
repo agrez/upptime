@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.60%",
     "uptimeDay": "97.03%",
-    "uptimeWeek": "95.45%",
+    "uptimeWeek": "96.46%",
     "uptimeMonth": "97.35%",
     "uptimeYear": "99.01%",
     "time": 1820,
-    "timeDay": 1471,
-    "timeWeek": 1621,
-    "timeMonth": 1679,
-    "timeYear": 1825,
+    "timeDay": 1424,
+    "timeWeek": 1623,
+    "timeMonth": 1678,
+    "timeYear": 1826,
     "dailyMinutesDown": {
       "2026-02-13": 43,
       "2026-02-12": 64,
@@ -92,8 +92,7 @@
       "2025-03-02": 251,
       "2025-02-24": 58,
       "2025-02-20": 39,
-      "2025-02-18": 88,
-      "2025-02-14": 18
+      "2025-02-18": 88
     }
   },
   {
@@ -104,14 +103,14 @@
     "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "97.06%",
-    "uptimeWeek": "96.13%",
+    "uptimeWeek": "97.13%",
     "uptimeMonth": "97.73%",
     "uptimeYear": "99.20%",
-    "time": 2145,
-    "timeDay": 2157,
-    "timeWeek": 2054,
-    "timeMonth": 2059,
-    "timeYear": 2132,
+    "time": 2144,
+    "timeDay": 1991,
+    "timeWeek": 2102,
+    "timeMonth": 2058,
+    "timeYear": 2133,
     "dailyMinutesDown": {
       "2026-02-13": 42,
       "2026-02-12": 63,
@@ -169,8 +168,7 @@
       "2025-03-06": 20,
       "2025-02-24": 43,
       "2025-02-20": 24,
-      "2025-02-18": 87,
-      "2025-02-14": 18
+      "2025-02-18": 87
     }
   },
   {
@@ -180,15 +178,15 @@
     "slug": "sihe-canvas",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "92.91%",
-    "uptimeWeek": "95.58%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "96.56%",
     "uptimeMonth": "97.16%",
     "uptimeYear": "99.42%",
-    "time": 2404,
-    "timeDay": 2754,
-    "timeWeek": 2248,
-    "timeMonth": 2124,
-    "timeYear": 2437,
+    "time": 2405,
+    "timeDay": 2113,
+    "timeWeek": 2322,
+    "timeMonth": 2133,
+    "timeYear": 2439,
     "dailyMinutesDown": {
       "2026-02-13": 42,
       "2026-02-12": 123,
@@ -282,14 +280,14 @@
     "status": "up",
     "uptime": "99.43%",
     "uptimeDay": "97.12%",
-    "uptimeWeek": "96.22%",
+    "uptimeWeek": "97.19%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.19%",
     "time": 1487,
-    "timeDay": 1201,
-    "timeWeek": 1347,
-    "timeMonth": 1372,
-    "timeYear": 1503,
+    "timeDay": 1230,
+    "timeWeek": 1328,
+    "timeMonth": 1378,
+    "timeYear": 1505,
     "dailyMinutesDown": {
       "2026-02-13": 41,
       "2026-02-12": 62,
@@ -348,8 +346,7 @@
       "2025-03-06": 19,
       "2025-02-24": 41,
       "2025-02-20": 23,
-      "2025-02-18": 86,
-      "2025-02-14": 17
+      "2025-02-18": 86
     }
   },
   {
@@ -358,18 +355,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.sheridan.edu.au.ico",
     "slug": "sihe-library",
     "status": "down",
-    "uptime": "95.64%",
+    "uptime": "95.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.82%",
-    "uptimeMonth": "48.63%",
-    "uptimeYear": "93.51%",
-    "time": 2998,
+    "uptimeMonth": "46.35%",
+    "uptimeYear": "93.32%",
+    "time": 2999,
     "timeDay": 0,
     "timeWeek": 3927,
-    "timeMonth": 4227,
-    "timeYear": 3067,
+    "timeMonth": 4257,
+    "timeYear": 3070,
     "dailyMinutesDown": {
-      "2026-02-13": 549,
+      "2026-02-14": 104,
+      "2026-02-13": 1440,
       "2026-02-12": 1257,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -453,8 +451,7 @@
       "2025-02-27": 49,
       "2025-02-24": 40,
       "2025-02-20": 22,
-      "2025-02-18": 86,
-      "2025-02-14": 17
+      "2025-02-18": 86
     }
   }
 ]
