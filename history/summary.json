@@ -10,10 +10,10 @@
     "uptimeWeek": "95.80%",
     "uptimeMonth": "97.22%",
     "uptimeYear": "99.00%",
-    "time": 1827,
-    "timeDay": 2080,
-    "timeWeek": 1861,
-    "timeMonth": 1706,
+    "time": 1828,
+    "timeDay": 2090,
+    "timeWeek": 1862,
+    "timeMonth": 1710,
     "timeYear": 1828,
     "dailyMinutesDown": {
       "2026-02-17": 104,
@@ -106,11 +106,11 @@
     "uptimeDay": "96.87%",
     "uptimeWeek": "97.05%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.18%",
     "time": 2147,
-    "timeDay": 2102,
-    "timeWeek": 2095,
-    "timeMonth": 2070,
+    "timeDay": 2458,
+    "timeWeek": 2124,
+    "timeMonth": 2074,
     "timeYear": 2133,
     "dailyMinutesDown": {
       "2026-02-17": 45,
@@ -171,8 +171,7 @@
       "2025-03-08": 343,
       "2025-03-06": 20,
       "2025-02-24": 43,
-      "2025-02-20": 24,
-      "2025-02-18": 87
+      "2025-02-20": 24
     }
   },
   {
@@ -186,10 +185,10 @@
     "uptimeWeek": "96.49%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "99.41%",
-    "time": 2406,
-    "timeDay": 2145,
-    "timeWeek": 2273,
-    "timeMonth": 2126,
+    "time": 2405,
+    "timeDay": 2361,
+    "timeWeek": 2260,
+    "timeMonth": 2130,
     "timeYear": 2438,
     "dailyMinutesDown": {
       "2026-02-17": 45,
@@ -283,12 +282,12 @@
     "uptimeDay": "96.93%",
     "uptimeWeek": "97.12%",
     "uptimeMonth": "97.65%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.18%",
     "time": 1489,
-    "timeDay": 1374,
-    "timeWeek": 1390,
-    "timeMonth": 1375,
-    "timeYear": 1505,
+    "timeDay": 1507,
+    "timeWeek": 1397,
+    "timeMonth": 1388,
+    "timeYear": 1506,
     "dailyMinutesDown": {
       "2026-02-17": 44,
       "2026-02-15": 33,
@@ -349,8 +348,7 @@
       "2025-03-08": 341,
       "2025-03-06": 19,
       "2025-02-24": 41,
-      "2025-02-20": 23,
-      "2025-02-18": 86
+      "2025-02-20": 23
     }
   },
   {
@@ -359,18 +357,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.sheridan.edu.au.ico",
     "slug": "sihe-library",
     "status": "down",
-    "uptime": "95.19%",
+    "uptime": "95.16%",
     "uptimeDay": "16.39%",
     "uptimeWeek": "4.16%",
-    "uptimeMonth": "34.86%",
-    "uptimeYear": "92.34%",
+    "uptimeMonth": "33.99%",
+    "uptimeYear": "92.28%",
     "time": 3001,
     "timeDay": 3627,
     "timeWeek": 3777,
-    "timeMonth": 4440,
-    "timeYear": 3071,
+    "timeMonth": 4595,
+    "timeYear": 3072,
     "dailyMinutesDown": {
-      "2026-02-17": 936,
+      "2026-02-18": 111,
+      "2026-02-17": 1204,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -457,8 +456,7 @@
       "2025-03-06": 18,
       "2025-02-27": 49,
       "2025-02-24": 40,
-      "2025-02-20": 22,
-      "2025-02-18": 86
+      "2025-02-20": 22
     }
   }
 ]
