@@ -4,10 +4,10 @@
     "url": "https://mail.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/mail.sheridan.edu.au.ico",
     "slug": "sihe-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.85%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "97.83%",
     "uptimeMonth": "96.78%",
     "uptimeYear": "99.17%",
     "time": 1824,
@@ -16,6 +16,7 @@
     "timeMonth": 1666,
     "timeYear": 1790,
     "dailyMinutesDown": {
+      "2026-04-07": 2,
       "2026-04-05": 58,
       "2026-04-04": 59,
       "2026-04-03": 66,
@@ -78,8 +79,7 @@
       "2025-12-26": 33,
       "2025-12-23": 23,
       "2025-12-19": 29,
-      "2025-12-10": 59,
-      "2025-12-09": 20
+      "2025-12-10": 59
     }
   },
   {
@@ -87,18 +87,19 @@
     "url": "https://www.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.sheridan.edu.au.ico",
     "slug": "sihe-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.87%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "97.85%",
     "uptimeMonth": "96.98%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 2144,
     "timeDay": 1526,
     "timeWeek": 2003,
     "timeMonth": 2199,
     "timeYear": 2147,
     "dailyMinutesDown": {
+      "2026-04-07": 2,
       "2026-04-05": 57,
       "2026-04-04": 59,
       "2026-04-03": 66,
@@ -164,7 +165,7 @@
       "2025-12-02": 69,
       "2025-11-28": 28,
       "2025-11-12": 16,
-      "2025-11-11": 43
+      "2025-11-11": 24
     }
   },
   {
@@ -172,18 +173,19 @@
     "url": "https://canvas.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/canvas.sheridan.edu.au.ico",
     "slug": "sihe-canvas",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.88%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "97.87%",
     "uptimeMonth": "96.88%",
     "uptimeYear": "99.15%",
-    "time": 2395,
+    "time": 2396,
     "timeDay": 1603,
     "timeWeek": 2071,
     "timeMonth": 2160,
     "timeYear": 2380,
     "dailyMinutesDown": {
+      "2026-04-07": 1,
       "2026-04-05": 57,
       "2026-04-04": 58,
       "2026-04-03": 65,
@@ -247,8 +249,7 @@
       "2026-01-04": 21,
       "2026-01-03": 25,
       "2025-12-31": 53,
-      "2025-12-29": 27,
-      "2025-12-27": 25
+      "2025-12-29": 27
     }
   },
   {
@@ -256,18 +257,19 @@
     "url": "https://student.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/student.sheridan.edu.au.ico",
     "slug": "sihe-ums",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.90%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "97.89%",
     "uptimeMonth": "97.04%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 1493,
     "timeDay": 1174,
     "timeWeek": 1434,
     "timeMonth": 1495,
     "timeYear": 1509,
     "dailyMinutesDown": {
+      "2026-04-07": 1,
       "2026-04-05": 56,
       "2026-04-04": 58,
       "2026-04-03": 65,
@@ -333,8 +335,7 @@
       "2025-12-03": 41,
       "2025-12-02": 66,
       "2025-11-28": 130,
-      "2025-11-12": 15,
-      "2025-11-11": 23
+      "2025-11-12": 15
     }
   },
   {
@@ -342,10 +343,10 @@
     "url": "https://library.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/library.sheridan.edu.au.ico",
     "slug": "sihe-library",
-    "status": "up",
+    "status": "down",
     "uptime": "92.09%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "10.02%",
+    "uptimeWeek": "1.43%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "79.71%",
     "time": 3054,
