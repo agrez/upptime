@@ -340,18 +340,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.sheridan.edu.au.ico",
     "slug": "sihe-library",
     "status": "down",
-    "uptime": "91.16%",
+    "uptime": "91.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.53%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.04%",
+    "uptimeYear": "77.01%",
     "time": 3061,
     "timeDay": 0,
     "timeWeek": 4039,
     "timeMonth": 4009,
     "timeYear": 3142,
     "dailyMinutesDown": {
-      "2026-04-16": 1433,
+      "2026-04-17": 128,
+      "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1386,
@@ -484,8 +485,7 @@
       "2025-06-09": 110,
       "2025-06-07": 19,
       "2025-05-21": 743,
-      "2025-05-05": 21,
-      "2025-04-17": 18
+      "2025-05-05": 21
     }
   }
 ]
