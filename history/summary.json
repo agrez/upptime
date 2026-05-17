@@ -4,18 +4,19 @@
     "url": "https://mail.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/mail.sheridan.edu.au.ico",
     "slug": "sihe-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "98.36%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "98.31%",
     "uptimeYear": "98.96%",
     "time": 1799,
     "timeDay": 1547,
     "timeWeek": 1532,
     "timeMonth": 1604,
-    "timeYear": 1755,
+    "timeYear": 1752,
     "dailyMinutesDown": {
+      "2026-05-17": 20,
       "2026-05-14": 81,
       "2026-05-03": 57,
       "2026-05-02": 101,
@@ -77,8 +78,7 @@
       "2026-01-27": 25,
       "2026-01-26": 28,
       "2026-01-25": 55,
-      "2026-01-22": 127,
-      "2026-01-18": 18
+      "2026-01-22": 127
     }
   },
   {
@@ -86,11 +86,11 @@
     "url": "https://www.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.sheridan.edu.au.ico",
     "slug": "sihe-website",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "98.51%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "98.48%",
     "uptimeYear": "98.98%",
     "time": 2134,
     "timeDay": 2001,
@@ -98,6 +98,7 @@
     "timeMonth": 2045,
     "timeYear": 2117,
     "dailyMinutesDown": {
+      "2026-05-17": 15,
       "2026-05-14": 76,
       "2026-05-03": 56,
       "2026-05-02": 101,
@@ -163,8 +164,7 @@
       "2026-01-16": 2,
       "2026-01-09": 31,
       "2026-01-06": 28,
-      "2026-01-05": 43,
-      "2026-01-04": 22
+      "2026-01-05": 43
     }
   },
   {
@@ -172,18 +172,19 @@
     "url": "https://canvas.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/canvas.sheridan.edu.au.ico",
     "slug": "sihe-canvas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "96.82%",
-    "uptimeYear": "98.86%",
-    "time": 2398,
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "97.16%",
+    "uptimeMonth": "96.80%",
+    "uptimeYear": "98.87%",
+    "time": 2399,
     "timeDay": 3930,
     "timeWeek": 3570,
     "timeMonth": 2582,
     "timeYear": 2377,
     "dailyMinutesDown": {
+      "2026-05-17": 10,
       "2026-05-15": 95,
       "2026-05-14": 71,
       "2026-05-11": 110,
@@ -246,8 +247,7 @@
       "2026-02-05": 54,
       "2026-02-04": 40,
       "2026-02-03": 20,
-      "2026-01-30": 43,
-      "2026-01-29": 61
+      "2026-01-30": 43
     }
   },
   {
@@ -255,11 +255,11 @@
     "url": "https://student.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/student.sheridan.edu.au.ico",
     "slug": "sihe-ums",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "98.54%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "98.53%",
     "uptimeYear": "99.00%",
     "time": 1486,
     "timeDay": 1164,
@@ -267,6 +267,7 @@
     "timeMonth": 1297,
     "timeYear": 1453,
     "dailyMinutesDown": {
+      "2026-05-17": 5,
       "2026-05-14": 67,
       "2026-05-03": 55,
       "2026-05-02": 100,
@@ -333,8 +334,7 @@
       "2026-01-09": 30,
       "2026-01-06": 27,
       "2026-01-05": 42,
-      "2026-01-04": 21,
-      "2025-12-31": 23
+      "2026-01-04": 21
     }
   },
   {
@@ -343,18 +343,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.sheridan.edu.au.ico",
     "slug": "sihe-library",
     "status": "down",
-    "uptime": "88.49%",
+    "uptime": "88.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.98%",
     "uptimeMonth": "4.30%",
-    "uptimeYear": "69.04%",
+    "uptimeYear": "68.84%",
     "time": 3090,
     "timeDay": 0,
     "timeWeek": 3849,
     "timeMonth": 3918,
     "timeYear": 3156,
     "dailyMinutesDown": {
-      "2026-05-17": 161,
+      "2026-05-17": 1203,
       "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
