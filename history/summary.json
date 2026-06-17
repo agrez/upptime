@@ -4,16 +4,16 @@
     "url": "https://mail.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/mail.sheridan.edu.au.ico",
     "slug": "sihe-mail",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "87.94%",
-    "uptimeWeek": "88.63%",
-    "uptimeMonth": "90.12%",
-    "uptimeYear": "98.39%",
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "72.98%",
+    "uptimeWeek": "86.49%",
+    "uptimeMonth": "89.73%",
+    "uptimeYear": "98.35%",
     "time": 1761,
-    "timeDay": 1439,
-    "timeWeek": 1532,
-    "timeMonth": 1617,
+    "timeDay": 1355,
+    "timeWeek": 1512,
+    "timeMonth": 1592,
     "timeYear": 1732,
     "dailyMinutesDown": {
       "2026-02-25": 220,
@@ -76,7 +76,7 @@
       "2026-06-14": 143,
       "2026-06-15": 5,
       "2026-06-16": 220,
-      "2026-06-17": 42
+      "2026-06-17": 257
     }
   },
   {
@@ -84,17 +84,17 @@
     "url": "https://www.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.sheridan.edu.au.ico",
     "slug": "sihe-website",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "88.61%",
-    "uptimeWeek": "89.06%",
-    "uptimeMonth": "90.46%",
-    "uptimeYear": "98.42%",
-    "time": 2142,
-    "timeDay": 2863,
-    "timeWeek": 2834,
-    "timeMonth": 2248,
-    "timeYear": 2122,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "73.65%",
+    "uptimeWeek": "86.92%",
+    "uptimeMonth": "90.06%",
+    "uptimeYear": "98.38%",
+    "time": 2143,
+    "timeDay": 2896,
+    "timeWeek": 2841,
+    "timeMonth": 2263,
+    "timeYear": 2123,
     "dailyMinutesDown": {
       "2026-02-15": 17,
       "2026-02-17": 45,
@@ -157,7 +157,7 @@
       "2026-06-14": 133,
       "2026-06-15": 5,
       "2026-06-16": 211,
-      "2026-06-17": 38
+      "2026-06-17": 253
     }
   },
   {
@@ -165,17 +165,17 @@
     "url": "https://canvas.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/canvas.sheridan.edu.au.ico",
     "slug": "sihe-canvas",
-    "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "89.27%",
-    "uptimeWeek": "88.21%",
-    "uptimeMonth": "89.50%",
-    "uptimeYear": "98.29%",
-    "time": 2509,
-    "timeDay": 4023,
-    "timeWeek": 3948,
-    "timeMonth": 4061,
-    "timeYear": 2548,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "74.31%",
+    "uptimeWeek": "86.07%",
+    "uptimeMonth": "89.09%",
+    "uptimeYear": "98.25%",
+    "time": 2511,
+    "timeDay": 3899,
+    "timeWeek": 3937,
+    "timeMonth": 4047,
+    "timeYear": 2550,
     "dailyMinutesDown": {
       "2026-03-01": 32,
       "2026-03-02": 254,
@@ -239,7 +239,7 @@
       "2026-06-14": 124,
       "2026-06-15": 5,
       "2026-06-16": 201,
-      "2026-06-17": 33
+      "2026-06-17": 248
     }
   },
   {
@@ -247,17 +247,17 @@
     "url": "https://student.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/student.sheridan.edu.au.ico",
     "slug": "sihe-ums",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "89.94%",
-    "uptimeWeek": "89.91%",
-    "uptimeMonth": "91.17%",
-    "uptimeYear": "98.49%",
-    "time": 1475,
-    "timeDay": 1381,
-    "timeWeek": 1304,
-    "timeMonth": 1367,
-    "timeYear": 1438,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "74.97%",
+    "uptimeWeek": "87.77%",
+    "uptimeMonth": "90.75%",
+    "uptimeYear": "98.45%",
+    "time": 1480,
+    "timeDay": 3096,
+    "timeWeek": 1574,
+    "timeMonth": 1428,
+    "timeYear": 1445,
     "dailyMinutesDown": {
       "2026-02-15": 33,
       "2026-02-17": 44,
@@ -320,7 +320,7 @@
       "2026-06-14": 114,
       "2026-06-15": 5,
       "2026-06-16": 191,
-      "2026-06-17": 28
+      "2026-06-17": 244
     }
   },
   {
@@ -329,11 +329,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.sheridan.edu.au.ico",
     "slug": "sihe-library",
     "status": "down",
-    "uptime": "85.76%",
+    "uptime": "85.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "2.31%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.58%",
+    "uptimeYear": "60.54%",
     "time": 3145,
     "timeDay": 0,
     "timeWeek": 3364,
@@ -530,7 +530,7 @@
       "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
-      "2026-06-17": 1079
+      "2026-06-17": 1300
     }
   }
 ]
