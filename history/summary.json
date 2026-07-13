@@ -4,16 +4,16 @@
     "url": "https://mail.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/mail.sheridan.edu.au.ico",
     "slug": "sihe-mail",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "92.41%",
-    "uptimeMonth": "94.28%",
-    "uptimeYear": "98.15%",
-    "time": 1744,
-    "timeDay": 1599,
-    "timeWeek": 1536,
-    "timeMonth": 1715,
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "87.09%",
+    "uptimeWeek": "90.76%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "98.12%",
+    "time": 1743,
+    "timeDay": 1747,
+    "timeWeek": 1561,
+    "timeMonth": 1718,
     "timeYear": 1731,
     "dailyMinutesDown": {
       "2026-03-04": 79,
@@ -82,7 +82,7 @@
       "2026-07-09": 52,
       "2026-07-10": 126,
       "2026-07-11": 74,
-      "2026-07-13": 20
+      "2026-07-13": 186
     }
   },
   {
@@ -90,16 +90,16 @@
     "url": "https://www.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.sheridan.edu.au.ico",
     "slug": "sihe-website",
-    "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "92.60%",
-    "uptimeMonth": "94.49%",
-    "uptimeYear": "98.20%",
-    "time": 2183,
-    "timeDay": 2031,
-    "timeWeek": 2156,
-    "timeMonth": 2892,
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "87.43%",
+    "uptimeWeek": "90.95%",
+    "uptimeMonth": "94.11%",
+    "uptimeYear": "98.17%",
+    "time": 2184,
+    "timeDay": 2108,
+    "timeWeek": 2159,
+    "timeMonth": 2877,
     "timeYear": 2178,
     "dailyMinutesDown": {
       "2026-03-02": 100,
@@ -168,7 +168,7 @@
       "2026-07-07": 450,
       "2026-07-09": 47,
       "2026-07-10": 121,
-      "2026-07-13": 15
+      "2026-07-13": 181
     }
   },
   {
@@ -176,17 +176,17 @@
     "url": "https://canvas.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/canvas.sheridan.edu.au.ico",
     "slug": "sihe-canvas",
-    "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "94.28%",
-    "uptimeWeek": "91.98%",
-    "uptimeMonth": "93.26%",
-    "uptimeYear": "98.01%",
-    "time": 2614,
-    "timeDay": 2985,
-    "timeWeek": 3580,
-    "timeMonth": 4069,
-    "timeYear": 2666,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "82.72%",
+    "uptimeWeek": "90.33%",
+    "uptimeMonth": "92.88%",
+    "uptimeYear": "97.97%",
+    "time": 2617,
+    "timeDay": 3399,
+    "timeWeek": 3647,
+    "timeMonth": 4078,
+    "timeYear": 2669,
     "dailyMinutesDown": {
       "2026-03-19": 86,
       "2026-03-20": 149,
@@ -256,7 +256,7 @@
       "2026-07-09": 155,
       "2026-07-10": 116,
       "2026-07-12": 72,
-      "2026-07-13": 10
+      "2026-07-13": 176
     }
   },
   {
@@ -264,16 +264,16 @@
     "url": "https://student.sheridan.edu.au",
     "icon": "https://icons.duckduckgo.com/ip3/student.sheridan.edu.au.ico",
     "slug": "sihe-ums",
-    "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "95.02%",
-    "uptimeMonth": "95.39%",
-    "uptimeYear": "98.30%",
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "88.09%",
+    "uptimeWeek": "93.37%",
+    "uptimeMonth": "95.01%",
+    "uptimeYear": "98.27%",
     "time": 1477,
-    "timeDay": 1406,
-    "timeWeek": 1327,
-    "timeMonth": 1421,
+    "timeDay": 1466,
+    "timeWeek": 1347,
+    "timeMonth": 1424,
     "timeYear": 1438,
     "dailyMinutesDown": {
       "2026-03-01": 32,
@@ -342,7 +342,7 @@
       "2026-07-07": 243,
       "2026-07-09": 37,
       "2026-07-10": 112,
-      "2026-07-13": 5
+      "2026-07-13": 171
     }
   },
   {
@@ -351,11 +351,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.sheridan.edu.au.ico",
     "slug": "sihe-library",
     "status": "down",
-    "uptime": "83.71%",
+    "uptime": "83.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.09%",
     "uptimeMonth": "2.16%",
-    "uptimeYear": "53.60%",
+    "uptimeYear": "53.57%",
     "time": 3150,
     "timeDay": 0,
     "timeWeek": 4080,
@@ -575,7 +575,7 @@
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
-      "2026-07-13": 473,
+      "2026-07-13": 645,
       "2026-07-12": 1440
     }
   }
