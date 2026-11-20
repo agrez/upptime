@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.sheridan.edu.au.ico",
     "slug": "sihe-mail",
     "status": "down",
-    "uptime": "98.87%",
+    "uptime": "98.86%",
     "uptimeDay": "54.72%",
-    "uptimeWeek": "51.73%",
-    "uptimeMonth": "85.10%",
-    "uptimeYear": "96.35%",
+    "uptimeWeek": "51.00%",
+    "uptimeMonth": "84.93%",
+    "uptimeYear": "96.33%",
     "time": 1744,
     "timeDay": 1453,
     "timeWeek": 2882,
@@ -91,7 +91,7 @@
       "2026-11-16": 1276,
       "2026-11-19": 892,
       "2026-11-18": 1440,
-      "2026-11-20": 20
+      "2026-11-20": 94
     }
   },
   {
@@ -100,11 +100,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sheridan.edu.au.ico",
     "slug": "sihe-website",
     "status": "down",
-    "uptime": "99.05%",
+    "uptime": "99.04%",
     "uptimeDay": "55.38%",
-    "uptimeWeek": "55.20%",
-    "uptimeMonth": "85.00%",
-    "uptimeYear": "96.93%",
+    "uptimeWeek": "54.46%",
+    "uptimeMonth": "84.83%",
+    "uptimeYear": "96.91%",
     "time": 2307,
     "timeDay": 2612,
     "timeWeek": 2410,
@@ -186,7 +186,7 @@
       "2026-11-16": 1271,
       "2026-11-19": 887,
       "2026-11-18": 1440,
-      "2026-11-20": 15
+      "2026-11-20": 89
     }
   },
   {
@@ -195,11 +195,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/canvas.sheridan.edu.au.ico",
     "slug": "sihe-canvas",
     "status": "down",
-    "uptime": "98.97%",
+    "uptime": "98.96%",
     "uptimeDay": "56.05%",
-    "uptimeWeek": "55.39%",
-    "uptimeMonth": "87.06%",
-    "uptimeYear": "96.67%",
+    "uptimeWeek": "54.65%",
+    "uptimeMonth": "86.89%",
+    "uptimeYear": "96.66%",
     "time": 3004,
     "timeDay": 2879,
     "timeWeek": 3058,
@@ -282,7 +282,7 @@
       "2026-11-16": 1266,
       "2026-11-19": 883,
       "2026-11-18": 1440,
-      "2026-11-20": 10
+      "2026-11-20": 85
     }
   },
   {
@@ -291,11 +291,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.sheridan.edu.au.ico",
     "slug": "sihe-ums",
     "status": "down",
-    "uptime": "99.13%",
+    "uptime": "99.12%",
     "uptimeDay": "56.72%",
-    "uptimeWeek": "55.58%",
-    "uptimeMonth": "87.11%",
-    "uptimeYear": "97.18%",
+    "uptimeWeek": "54.84%",
+    "uptimeMonth": "86.94%",
+    "uptimeYear": "97.17%",
     "time": 1427,
     "timeDay": 1205,
     "timeWeek": 1050,
@@ -378,7 +378,7 @@
       "2026-11-16": 1261,
       "2026-11-19": 878,
       "2026-11-18": 1440,
-      "2026-11-20": 5
+      "2026-11-20": 80
     }
   },
   {
@@ -391,7 +391,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.71%",
+    "uptimeYear": "19.69%",
     "time": 3269,
     "timeDay": 0,
     "timeWeek": 0,
@@ -640,7 +640,7 @@
       "2026-08-25": 1440,
       "2026-09-03": 1155,
       "2026-09-02": 1440,
-      "2026-11-20": 260,
+      "2026-11-20": 334,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
